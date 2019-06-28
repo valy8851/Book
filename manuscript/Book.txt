@@ -1,7 +1,7 @@
 front
-00.txt
+00.md
 main
-01.txt
+01.md
 end
-toc.txt
+toc.md
 
